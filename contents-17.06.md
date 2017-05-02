@@ -1,6 +1,6 @@
 > Contents for the first edition
 
-> Claim any chapters which are *not claimed* 
+> Claim any chapters which are *not claimed*
 
 > Add any chapters, sections or parts you think are needed
 
@@ -19,7 +19,7 @@
 - *Why Docker? - Ops view*
 - *Why Docker - DevOps view*
 
-## Section 3. Docker for Modern and Traditional Applications	
+## Section 3. Docker for Modern and Traditional Applications
 
 - *Why Docker - cloud-native apps*
 - *Why Docker - traditional apps*
@@ -27,7 +27,7 @@
 
 ## Part 2 - The Docker Platform
 
-### Section 1. Docker Editions 
+### Section 1. Docker Editions
 
 - *Intro to CE and EE*
 - *Docker for Mac*
@@ -63,7 +63,7 @@
 - Hybrid Windows & Linux swarms | [Elton](authors/elton.md)
 - Scaling large Swarms | [Jesse](authors/jesse.md)
 - Working with Docker Secrets | [Michele](authors/michele.md)
-- *Security in Swarm Mode*
+- Security in Swarm Mode | [Nigel](authors/nigel.md)
 
 ### Section 2. Deploying Dockerized Applications
 
@@ -84,7 +84,7 @@
 ### Section 4. Docker Enterprise Edition
 
 - DTR | [Scott](authors/scott.md)
-- UCP | [Scott](authors/scott.md) 
+- UCP | [Scott](authors/scott.md)
 - Security Scanning | [Scott](authors/scott.md)
 - Content trust/image signing/LDAP | [Scott](authors/scott.md)
 
@@ -121,4 +121,3 @@
 - *LinuxKit*
 - *SwarmKit*
 - *InfraKit*
-
