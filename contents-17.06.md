@@ -122,4 +122,6 @@
 - *SwarmKit*
 - *InfraKit*
 
-### Section 3. Automated scaling with Prometheus | [Viktor](authors/viktor.md)
+### Section 3. Docker Ecosystem
+
+- *Automated scaling with Prometheus* | [Viktor](authors/viktor.md)
