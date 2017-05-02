@@ -1,6 +1,6 @@
 > Contents for the first edition
 
-> Claim any chapters which are *not claimed* 
+> Claim any chapters which are *not claimed*
 
 > Add any chapters, sections or parts you think are needed
 
@@ -19,7 +19,7 @@
 - *Why Docker? - Ops view*
 - *Why Docker - DevOps view*
 
-## Section 3. Docker for Modern and Traditional Applications	
+## Section 3. Docker for Modern and Traditional Applications
 
 - *Why Docker - cloud-native apps*
 - *Why Docker - traditional apps*
@@ -27,14 +27,14 @@
 
 ## Part 2 - The Docker Platform
 
-### Section 1. Docker Editions 
+### Section 1. Docker Editions
 
 - *Intro to CE and EE*
 - *Docker for Mac*
 - Docker for Windows | [Elton](authors/elton.md)
 - Docker Cloud (presentation + setup of a CI/CD pipeline) | [Luc](authors/luc.md)
 - *Docker for AWS* [Jesse](authors/jesse.md)
-- *Docker for Azure*
+- *Docker for Azure* | [Michele](authors/michele.md)
 - *Docker for GCP*
 
 ### Section 2. Docker Images and Registries
@@ -63,7 +63,7 @@
 - Hybrid Windows & Linux swarms | [Elton](authors/elton.md)
 - Scaling large Swarms | [Jesse](authors/jesse.md)
 - Working with Docker Secrets | [Michele](authors/michele.md)
-- *Security in Swarm Mode*
+- Security in Swarm Mode | [Nigel](authors/nigel.md)
 
 ### Section 2. Deploying Dockerized Applications
 
@@ -84,7 +84,7 @@
 ### Section 4. Docker Enterprise Edition
 
 - DTR | [Scott](authors/scott.md)
-- UCP | [Scott](authors/scott.md) 
+- UCP | [Scott](authors/scott.md)
 - Security Scanning | [Scott](authors/scott.md)
 - Content trust/image signing/LDAP | [Scott](authors/scott.md)
 
@@ -94,7 +94,7 @@
 
 - Dockerfile Best practices (entrypoint with proper signal forwarding / alpine tips and tricks / ...) | [Vincent](authors/vincent.md)
 - .NET FX | [Elton](authors/elton.md) / [Michele](authors/michele.md)
-- .NET Core (Michele Leroux Bustamante) / | [Vincent](authors/vincent.md)
+- .NET Core | [Michele](authors/michele.md) | [Vincent](authors/vincent.md)
 - Node.js | [Michele](authors/michele.md)
 - *Java*
 - *Go* | [Viktor](authors/viktor.md)
