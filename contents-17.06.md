@@ -33,8 +33,8 @@
 - *Docker for Mac*
 - Docker for Windows | [Elton](authors/elton.md)
 - Docker Cloud (presentation + setup of a CI/CD pipeline) | [Luc](authors/luc.md)
-- *Docker for AWS* [Jesse](authors/jesse.md)
-- *Docker for Azure* | [Michele](authors/michele.md)
+- Docker for AWS | [Jesse](authors/jesse.md)
+- Docker for Azure | [Michele](authors/michele.md)
 - *Docker for GCP*
 
 ### Section 2. Docker Images and Registries
@@ -49,7 +49,7 @@
 - *Intro to compose & networking*
 - Development using Docker - Docker Compose file structure, multiple Dockerfiles, etc | [Antonis](authors/antonis.md)
 - Practical Docker Compose examples | [Vincent](authors/vincent.md)
-- *Storage* | [Viktor](authors/viktor.md)
+- Storage | [Viktor](authors/viktor.md)
 - Docker Networking | [Lee](authors/lee.md)
 
 
@@ -97,7 +97,7 @@
 - .NET Core | [Michele](authors/michele.md) | [Vincent](authors/vincent.md)
 - Node.js | [Michele](authors/michele.md)
 - *Java*
-- *Go* | [Viktor](authors/viktor.md)
+- Go | [Viktor](authors/viktor.md)
 - *Python*
 
 ### Section 2. Debugging and Troubleshooting
@@ -124,4 +124,4 @@
 
 ### Section 3. Docker Ecosystem
 
-- *Automated scaling with Prometheus* | [Viktor](authors/viktor.md)
+- Automated scaling with Prometheus | [Viktor](authors/viktor.md)
