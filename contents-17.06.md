@@ -34,7 +34,7 @@
 - Docker for Windows | [Elton](authors/elton.md)
 - Docker Cloud (presentation + setup of a CI/CD pipeline) | [Luc](authors/luc.md)
 - *Docker for AWS* [Jesse](authors/jesse.md)
-- *Docker for Azure*
+- *Docker for Azure* | [Michele](authors/michele.md)
 - *Docker for GCP*
 
 ### Section 2. Docker Images and Registries
@@ -94,7 +94,7 @@
 
 - Dockerfile Best practices (entrypoint with proper signal forwarding / alpine tips and tricks / ...) | [Vincent](authors/vincent.md)
 - .NET FX | [Elton](authors/elton.md) / [Michele](authors/michele.md)
-- .NET Core (Michele Leroux Bustamante) / | [Vincent](authors/vincent.md)
+- .NET Core | [Michele](authors/michele.md) | [Vincent](authors/vincent.md)
 - Node.js | [Michele](authors/michele.md)
 - *Java*
 - *Go*
