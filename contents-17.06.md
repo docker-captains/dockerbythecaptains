@@ -122,4 +122,4 @@
 - *SwarmKit*
 - *InfraKit*
 
-### Automated scaling with Prometheus | [Viktor](authors/viktor.md)
+### Section 3. Automated scaling with Prometheus | [Viktor](authors/viktor.md)
