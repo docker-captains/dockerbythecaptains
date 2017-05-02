@@ -59,6 +59,7 @@
 
 - Intro to swarm mode | [Stefan](authors/stefan.md)
 - Intro to Creating A Swarm and Services | [Bret](authors/bret.md)
+  - Creating a test swarm with DinD | [Tony](authors/tony.md)
 - Swarm Overlay Networking and Stacks | [Bret](authors/bret.md)
 - Hybrid Windows & Linux swarms | [Elton](authors/elton.md)
 - Scaling large Swarms | [Jesse](authors/jesse.md)
@@ -95,10 +96,12 @@
 - Dockerfile Best practices (entrypoint with proper signal forwarding / alpine tips and tricks / ...) | [Vincent](authors/vincent.md)
 - .NET FX | [Elton](authors/elton.md) / [Michele](authors/michele.md)
 - .NET Core | [Michele](authors/michele.md) | [Vincent](authors/vincent.md)
-- Node.js | [Michele](authors/michele.md)
+- Node.js | [Michele](authors/michele.md) | [Tony](authors/tony.md)
 - *Java*
-- Go | [Viktor](authors/viktor.md)
+- Go | [Viktor](authors/viktor.md) | [Tony](authors/tony.md)
 - *Python*
+- Containerizing your entire toolchain | [Tony](authors/tony.md)
+  - Protocol Buffers and gRPC | [Tony](authors/tony.md)
 
 ### Section 2. Debugging and Troubleshooting
 
@@ -125,3 +128,8 @@
 ### Section 3. Docker Ecosystem
 
 - Automated scaling with Prometheus | [Viktor](authors/viktor.md)
+
+
+#### Section 4. Applied Docker
+
+- Microservices and Serverless Computing with Docker | [Tony](authors/tony.md)
