@@ -49,7 +49,7 @@
 - *Intro to compose & networking*
 - Development using Docker - Docker Compose file structure, multiple Dockerfiles, etc | [Antonis](authors/antonis.md)
 - Practical Docker Compose examples | [Vincent](authors/vincent.md)
-- *Storage*
+- *Storage* | [Viktor](authors/viktor.md)
 - Docker Networking | [Lee](authors/lee.md)
 
 
@@ -97,7 +97,7 @@
 - .NET Core (Michele Leroux Bustamante) / | [Vincent](authors/vincent.md)
 - Node.js | [Michele](authors/michele.md)
 - *Java*
-- *Go*
+- *Go* | [Viktor](authors/viktor.md)
 - *Python*
 
 ### Section 2. Debugging and Troubleshooting
@@ -122,3 +122,4 @@
 - *SwarmKit*
 - *InfraKit*
 
+### Automated scaling with Prometheus | [Viktor](authors/viktor.md)
