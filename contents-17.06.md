@@ -121,9 +121,10 @@
 ### Section 2. The Moby Project and the Kits
 
 - *Intro to Moby*
-- *LinuxKit*
+- LinuxKit | [Dan](authors/dan.md)
 - *SwarmKit*
-- *InfraKit*
+- InfraKit | [Dan](authors/dan.md)
+- hyperKit | [Dan](authors/dan.md)
 
 ### Section 3. Docker Ecosystem
 
