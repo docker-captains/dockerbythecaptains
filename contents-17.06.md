@@ -29,13 +29,14 @@
 
 ### Section 1. Docker Editions
 
-- *Intro to CE and EE*
+- Intro to CE and EE [Sreenivas](authors/sreenivas.md)
+- Docker experimental features [Sreenivas](authors/sreenivas.md)
 - *Docker for Mac*
 - Docker for Windows | [Elton](authors/elton.md)
 - Docker Cloud (presentation + setup of a CI/CD pipeline) | [Luc](authors/luc.md)
 - Docker for AWS | [Jesse](authors/jesse.md)
 - Docker for Azure | [Michele](authors/michele.md)
-- *Docker for GCP*
+- Docker for GCP | [Sreenivas](authors/sreenivas.md)
 
 ### Section 2. Docker Images and Registries
 
@@ -117,6 +118,7 @@
 - Filesystems CoW, system containers, app containers [Vincent](authors/vincent.md)
 - Swarm and orchestration guts | [Laura](authors/laura.md)
 - Docker Remote API | [Luc](authors/luc.md)
+- Docker Engine Security - seccomp, capabilities, apparmor, selinux | [Sreenivas](authors/sreenivas.md)
 
 ### Section 2. The Moby Project and the Kits
 
