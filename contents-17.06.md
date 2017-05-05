@@ -17,12 +17,12 @@
 
 - Docker for the dev team: tips and tricks for using docker effectively in development  | [John](authors/john.md)
 - *Why Docker? - Ops view*
-- *Why Docker - DevOps view*
+- Why Docker - DevOps view | [Adrien](authors/adrien.md)
 
 ## Section 3. Docker for Modern and Traditional Applications
 
-- *Why Docker - cloud-native apps*
-- *Why Docker - traditional apps*
+- Why Docker - cloud-native apps & Serverless | [Adrien](authors/adrien.md)
+- Why Docker - traditional apps | [Adrien](authors/adrien.md)
 
 
 ## Part 2 - The Docker Platform
