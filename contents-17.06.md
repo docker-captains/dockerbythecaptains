@@ -133,6 +133,10 @@
 - Automated scaling with Prometheus | [Viktor](authors/viktor.md)
 
 
-#### Section 4. Applied Docker
+### Section 4. Applied Docker
 
 - Microservices and Serverless Computing with Docker | [Tony](authors/tony.md)
+- Backup and Restore using Docker | [Elias](authors/elias.md)
+- Prototyping using Docker | [Elias](authors/elias.md)
+- Decoupling Legacy Monolithic Application in Microservices using Docker and Docker Compose | [Elias](authors/elias.md)
+- Docker Provider for Vagrant and its Application in Prototyping | [Elias](authors/elias.md)
